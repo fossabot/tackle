@@ -18,6 +18,7 @@ It comprises 3 microservices and accessible from a common [Tackle UI](https://gi
 ### Install Tackle on Minikube
 
 [![Install Tackle on Minikube](http://img.youtube.com/vi/jktnGSaIe1M/0.jpg)](http://www.youtube.com/watch?v=jktnGSaIe1M "Install Tackle on Minikube")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle?ref=badge_shield)
 
 ### Other tools within the Tackle portfolio
 
@@ -46,3 +47,7 @@ It comprises 3 microservices and accessible from a common [Tackle UI](https://gi
 
 ## Code of Conduct
 Refer to Konveyor's Code of Conduct [here](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle?ref=badge_large)
